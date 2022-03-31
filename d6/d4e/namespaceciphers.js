@@ -1,10 +1,11 @@
 var namespaceciphers =
 [
-    [ "base64_encoding", null, [
-      [ "base64_decode", "d1/d1c/base64__encoding_8cpp.html#ab53bd53022c27d29201dd744aa7986cf", null ],
-      [ "base64_encode", "d1/d1c/base64__encoding_8cpp.html#a4491ab05952c7db58fd832fee1f2361e", null ],
-      [ "find_idx", "d1/d1c/base64__encoding_8cpp.html#a845feda50fd909a33a72ef4745b59b61", null ],
-      [ "chars", "d1/d1c/base64__encoding_8cpp.html#ad3dd10bb330989e209fcaddf6fd0ae3c", null ]
+    [ "a1z26", null, [
+      [ "decrypt", "de/db6/a1z26__cipher_8cpp.html#a0a78954e96c862430904ee3e64623c38", null ],
+      [ "encrypt", "de/db6/a1z26__cipher_8cpp.html#a77a6b827a0b9c7aca2d705811459d744", null ]
+    ] ],
+    [ "atbash", null, [
+      [ "atbash_cipher", "dc/dfb/atbash__cipher_8cpp.html#a8f7dd4dcd3df7c512c20482afc2dbb9d", null ]
     ] ],
     [ "caesar", null, [
       [ "decrypt", "d6/d2c/caesar__cipher_8cpp.html#a355e69511cd2006b5c4c80ae95b71056", null ],
