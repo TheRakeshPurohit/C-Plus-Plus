@@ -12,6 +12,7 @@ var namespaces_dup =
     [ "bidirectional_dijkstra", "d4/d13/namespacebidirectional__dijkstra.html", null ],
     [ "binomial", "d7/d7a/namespacebinomial.html", null ],
     [ "bit_manipulation", "d7/d81/namespacebit__manipulation.html", null ],
+    [ "boruvkas_minimum_spanning_tree", "d8/d64/namespaceboruvkas__minimum__spanning__tree.html", null ],
     [ "caesar", "dd/d81/namespacecaesar.html", null ],
     [ "ciphers", "d6/d4e/namespaceciphers.html", "d6/d4e/namespaceciphers" ],
     [ "circular_linked_list", "d4/dcd/namespacecircular__linked__list.html", null ],
@@ -39,6 +40,7 @@ var namespaces_dup =
     [ "gram_schmidt", "d4/d0f/namespacegram__schmidt.html", null ],
     [ "graph", "df/dce/namespacegraph.html", "df/dce/namespacegraph" ],
     [ "graph_coloring", "d7/d08/namespacegraph__coloring.html", null ],
+    [ "greedy_algorithms", "d2/d90/namespacegreedy__algorithms.html", null ],
     [ "ground_to_ground_projectile_motion", "d0/d20/namespaceground__to__ground__projectile__motion.html", null ],
     [ "hamming_distance", "d4/d1c/namespacehamming__distance.html", null ],
     [ "hashing", "d6/d0c/namespacehashing.html", null ],
@@ -148,6 +150,7 @@ var namespaces_dup =
     [ "statistics", "d2/dcf/namespacestatistics.html", "d2/dcf/namespacestatistics" ],
     [ "std", "d8/dcc/namespacestd.html", "d8/dcc/namespacestd" ],
     [ "strand", "d8/d1d/namespacestrand.html", null ],
+    [ "strassens_multiplication", "d3/d91/namespacestrassens__multiplication.html", null ],
     [ "string_search", "d9/d03/namespacestring__search.html", [
       [ "brute_force", "d9/d03/namespacestring__search.html#aeb2cd81064717aedd62bfb096b1a73d8", null ],
       [ "check_if_equal", "d9/d03/namespacestring__search.html#aebe07cea289a13142503d98be7df11fd", null ],
@@ -160,6 +163,7 @@ var namespaces_dup =
     [ "strings", "df/dcb/namespacestrings.html", null ],
     [ "subarray_sum", "df/d74/namespacesubarray__sum.html", null ],
     [ "sublist_search", "d9/def/namespacesublist__search.html", null ],
+    [ "subset_sum", "dc/d3a/namespacesubset__sum.html", null ],
     [ "Subsets", "de/d95/namespace_subsets.html", null ],
     [ "sudoku_solver", "d8/d9f/namespacesudoku__solver.html", null ],
     [ "tests", "d9/df4/namespacetests.html", [
